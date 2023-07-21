@@ -56,6 +56,14 @@ header{
     letter-spacing: 5px;
 }
 
+.temak_img{
+    transition: 1s;
+}
+
+.temak_img:hover{
+    transform: scale(1.1);
+}
+
 .elerhetosegek{
     font-family: 'Quicksand', sans-serif;
     background-color: rgb(248, 249, 250);
