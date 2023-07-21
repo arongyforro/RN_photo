@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(248, 249, 250);
+}
+
+header{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.hatterfo{
+    background-image: url("kepek/proba.jpg");
+    min-height: 800px;
+    filter: grayscale(40%);
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom: 1px solid black;
+}
+
+.rn_photo{
+    font-family: 'Pompiere', cursive;
+    letter-spacing: 5px;
+    color: white;
+}
+
+.rn_photo_h1{
+    font-size: 90px;
+    margin-top: 210px;
+    font-weight: bold;
+    text-shadow: black 0px 0px 50px;
+}
+
+.brand{
+    transition: 2s;
+}
+
+.brand:hover{
+    letter-spacing: 8px;
+}
+
+.rn_photo_h3{
+    font-size: 60px;
+    text-shadow: black 0px 0px 50px;
+}
+
+.temak{
+    font-family: 'Quicksand', sans-serif;
+    border-bottom: 1px solid black;
+}
+
+.temak_h3{
+    font-size: 30px;
+    margin-top: 15px;
+    letter-spacing: 5px;
+}
+
+.elerhetosegek{
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(248, 249, 250);
+}
+
+
+.design{
+    background-color: rgb(248, 228, 160);
+    border-top: 1px solid black;
+    color: black;
+    font-size: 13px;
+}
+
+.footer_a{
+    text-decoration: none;
+    color: black;
+}

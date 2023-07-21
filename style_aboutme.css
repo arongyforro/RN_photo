@@ -1,0 +1,31 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    background: url(kepek/abtmproba.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.kepszoveg{
+    margin-top: 100px;
+}
+
+.szoveg{
+    margin-top: 20PX;
+}
+
+.szoveg_h3{
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.szoveg_p{
+    font-size: 18px;
+}
+
+.design{
+    background-color: rgb(248, 228, 160);
+    border-top: 1px solid black;
+    color: black;
+    font-size: 13px;
+}
